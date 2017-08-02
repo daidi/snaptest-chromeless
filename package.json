@@ -1,0 +1,13 @@
+{
+  "name": "snaptest-chromeless",
+  "version": "1.0.0",
+  "description": "A SnapTest chromeless harness/scaffold.",
+  "main": "someTest.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
