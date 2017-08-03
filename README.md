@@ -27,12 +27,12 @@ Requirements
 	```canary --remote-debugging-port=9222```
 	or
 	```chrome --remote-debugging-port=9222 --disable-gpu --headless```
-1.  Run a single tests:
+1.  Run a single test:
 	```node example.js```
-1.  Multiple tests: NOT SUPPORTED (someone needs to make a testing library on top of chromeless.)
+1.  Multiple tests: Not supported (Integration with mocha coming soon)
 
 ---
 
-# Running on lambda
+# Running on AWS Lambda
 
 1. Follow [the lambda steps on the official chromeless README](https://github.com/graphcool/chromeless#installation)
