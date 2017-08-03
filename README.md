@@ -19,7 +19,7 @@ Requirements
 
 1. Link: `npm link`
 
-# Running tests:
+## Running tests:
 
 1. Make an alias to canary
 	```alias canary="/Applications/Google\ Chrome\ Canary.app/Contents/MacOS/Google\ Chrome\ Canary"```
